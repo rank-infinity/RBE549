@@ -2,3 +2,6 @@ Nehal_hw0/Phase2/CIFAR10/*
 Nehal_hw0/Phase1/BSDS500/*
 Nehal_p1/Draft/*
 Nehal_p1/Phase2/Data/*
+
+__pycache__/
+*.pyc
