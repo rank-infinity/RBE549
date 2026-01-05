@@ -2,6 +2,10 @@ Nehal_hw0/Phase2/CIFAR10/*
 Nehal_hw0/Phase1/BSDS500/*
 Nehal_p1/Draft/*
 Nehal_p1/Phase2/Data/*
+Nehal_hw1/Calibration_Imgs/*
+Nehal_hw1/distored_calib_imgs/*
+Nehal_hw1/Results/*
+Nehal_p2/Phase1/P2Data/*
 
 __pycache__/
 *.pyc
